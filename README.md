@@ -1,7 +1,8 @@
 This is a storage of my data and code (using GNUPLot) that I used to draw SVG graphs on Wikimedia Commons.
 
-== Data used ==
-As ``Copyright Law`` in Republic of China declared "Numerical charts" is not a subject matter of copyright,
+## Data used
+
+As *Copyright Law* in Republic of China declared "Numerical charts" is not a subject matter of copyright,
 you can safely treated the original data as public domain.
 
 The CSV derivative of those data is licensed under CC0. 
